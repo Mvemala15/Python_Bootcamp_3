@@ -69,7 +69,7 @@ Slicing strings
 
 This made me feel like I was really using Python, not just copying code.
 
-🧠 Skills I Am Building Through This Bootcamp
+Skills I Am Building Through This Bootcamp
 
 Problem-solving with code
 
@@ -81,18 +81,18 @@ Practising logical thinking
 
 Learning Git & GitHub to track my progress
 
-🚀 Why This Journey Matters to Me
+Why This Journey Matters to Me
 
 I joined Python Bootcamp 3 because I wanted to grow as a lifelong learner.
 Every line of code reminds me that I can still learn, explore, and challenge myself.
 
 This repo will continue to evolve as I complete more lessons — and I can’t wait to see how much more I’ll achieve.
 
-🤝 Acknowledgements
+Acknowledgements
 
 Special thanks to the instructors, mentors, and peers who guided me and created a supportive environment. Your encouragement keeps me moving forward.
 
-💬 Final Thought
+Final Thought
 
 “Learning to code is not about perfection — it’s about progress.”
 This repository is the story of my progress.
